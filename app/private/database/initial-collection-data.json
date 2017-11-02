@@ -1,5 +1,5 @@
 {
-  "comment": "Initial contents for the BowFolios database. For development purposes only.",
+  "comment": "Initial contents for the Categories database. For development purposes only.",
   "collections": [
     {
       "name": "InterestCollection",
@@ -86,18 +86,18 @@
       "name": "ProfileCollection",
       "contents": [
         {
-          "firstName": "Lee",
-          "lastName": "Altenberg",
+          "firstName": "Sports",
+          "lastName": " ",
           "username": "altenber",
           "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
           "interests": [
             "Evolutionary Computation"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/altenberg.jpg"
+          "picture": "/images/sports.JPG"
         },
         {
-          "firstName": "Kyungim",
+          "firstName": "Food / Grinds",
           "lastName": "Baek",
           "username": "baek",
           "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
@@ -105,10 +105,10 @@
             "Computer Vision"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/baek.jpg"
+          "picture": "/images/food.jpeg"
         },
         {
-          "firstName": "Edo",
+          "firstName": "Parking",
           "lastName": "Biagioni",
           "username": "esb",
           "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
@@ -117,10 +117,10 @@
             "Sailing"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/biagioni.jpg"
+          "picture": "/images/parking.jpeg"
         },
         {
-          "firstName": "Kim",
+          "firstName": "Majors",
           "lastName": "Binsted",
           "username": "binsted",
           "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
@@ -129,10 +129,10 @@
             "Imu Cooking"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/binsted.jpg"
+          "picture": "/images/majors.png"
         },
         {
-          "firstName": "Henri",
+          "firstName": "Financial Aid",
           "lastName": "Casanova",
           "username": "henric",
           "github": "henricasanova",
@@ -142,7 +142,20 @@
             "Photography"
           ],
           "title": "Professor, Information and Computer Sciences",
-          "picture": "/images/casanova.jpg"
+          "picture": "/images/finaid.jpg"
+        },
+        {
+          "firstName": "Financial Aid",
+          "lastName": "two",
+          "username": "henr",
+          "github": "henricasanova",
+          "bio": "I am a Professor of Information and Computer Sciences at the University of Hawaii.",
+          "interests": [
+            "Surfing",
+            "Photography"
+          ],
+          "title": "Professor, Information and Computer Sciences",
+          "picture": "/images/finaid.jpg"
         }
       ]
     }
